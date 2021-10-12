@@ -10,7 +10,7 @@ export default function App() {
     return (
         <main>
             <Switch>
-                <Route exact path="/">
+                <Route>
                 <Home /> 
                 <Scroll />   
                 </Route> 
