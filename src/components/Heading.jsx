@@ -1,4 +1,3 @@
-// import logo from '../images/logo_HOWL.jpg';
 import './Heading.css';
 
 

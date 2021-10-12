@@ -72,3 +72,39 @@
     }
 
   }
+
+  @media only screen and (max-width: 768px) {
+    h3.pink  {
+    font-size: 4em;
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    z-index: 100;
+  }
+
+  h3.blue  {
+    font-size: 4em;
+    position: absolute;
+    top: 200%;
+    left: 47%;
+  }
+
+  h3.orange  {
+    font-size: 4em;
+    position: absolute;
+    top: 300%;
+    left: 47%;
+  }
+  h3.green  {
+    font-size: 4em;
+    position: absolute;
+    top: 400%;
+    left: 47%;
+  }
+  h3.yellow  {
+    font-size: 4em;
+    position: absolute;
+    top: 520%;
+    left: 47%;
+  }
+  }
