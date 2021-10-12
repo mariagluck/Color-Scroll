@@ -10,7 +10,7 @@ export default function App() {
     return (
         <main>
             <Switch>
-                <Route exact path="/"><Route exact path="https://github.com/mariagluck/color-scroll-react-app/settings/pages">
+                <Route exact path="/"><Route exact path="/mariagluck/color-scroll-react-app/settings/pages">
                 <Home /> 
                 <Scroll />   
                 </Route> 
