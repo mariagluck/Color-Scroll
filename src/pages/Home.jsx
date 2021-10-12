@@ -3,7 +3,6 @@ import Heading from '../components/Heading';
 import './Home.css';
 
 
-
 export default function Home() {
 
     window.addEventListener("scroll", function() {

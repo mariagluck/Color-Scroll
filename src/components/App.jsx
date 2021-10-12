@@ -1,13 +1,12 @@
 import React from "react";
 import Home from '../pages/Home.jsx';
-import Scroll from '../pages/Scroll.jsx';
+import Clock from '../pages/ScrollClock.jsx';
 import {
     HashRouter as Router,
     Switch,
     Route,
   
   } from "react-router-dom";
-
 
 
 export default function App() {
@@ -18,7 +17,11 @@ export default function App() {
             <Switch>
                 <Route>
                 <Home /> 
-                <Scroll />   
+                <div className="App">
+                <div className="clock">
+                <Clock />
+                </div>
+                </div>  
                 </Route> 
             </Switch>
         </Router>

@@ -29,9 +29,17 @@ h2 {
   z-index: 100;
 }
 
-.downScrollText h2 {
+.clock {
   text-align: center;
   position: fixed;
   /* width: 80vw; */
 	top: 80%;  
+}
+
+.Time {
+  height: 500px;
+  width: 800px;
+  font-family: courier, monospace;
+  color: white;
+  font-size: 4em;
 }
