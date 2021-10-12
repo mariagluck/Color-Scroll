@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/color-scroll-react-app/static/css/main.6ac82605.chunk.css",
-    "main.js": "/color-scroll-react-app/static/js/main.076e56b9.chunk.js",
-    "main.js.map": "/color-scroll-react-app/static/js/main.076e56b9.chunk.js.map",
+    "main.js": "/color-scroll-react-app/static/js/main.76f7f322.chunk.js",
+    "main.js.map": "/color-scroll-react-app/static/js/main.76f7f322.chunk.js.map",
     "runtime-main.js": "/color-scroll-react-app/static/js/runtime-main.b4325132.js",
     "runtime-main.js.map": "/color-scroll-react-app/static/js/runtime-main.b4325132.js.map",
-    "static/js/2.95766a25.chunk.js": "/color-scroll-react-app/static/js/2.95766a25.chunk.js",
-    "static/js/2.95766a25.chunk.js.map": "/color-scroll-react-app/static/js/2.95766a25.chunk.js.map",
+    "static/js/2.8e3da410.chunk.js": "/color-scroll-react-app/static/js/2.8e3da410.chunk.js",
+    "static/js/2.8e3da410.chunk.js.map": "/color-scroll-react-app/static/js/2.8e3da410.chunk.js.map",
     "index.html": "/color-scroll-react-app/index.html",
     "static/css/main.6ac82605.chunk.css.map": "/color-scroll-react-app/static/css/main.6ac82605.chunk.css.map",
-    "static/js/2.95766a25.chunk.js.LICENSE.txt": "/color-scroll-react-app/static/js/2.95766a25.chunk.js.LICENSE.txt",
+    "static/js/2.8e3da410.chunk.js.LICENSE.txt": "/color-scroll-react-app/static/js/2.8e3da410.chunk.js.LICENSE.txt",
     "static/media/volcano.570fcf62.jpeg": "/color-scroll-react-app/static/media/volcano.570fcf62.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.b4325132.js",
-    "static/js/2.95766a25.chunk.js",
+    "static/js/2.8e3da410.chunk.js",
     "static/css/main.6ac82605.chunk.css",
-    "static/js/main.076e56b9.chunk.js"
+    "static/js/main.76f7f322.chunk.js"
   ]
 }
