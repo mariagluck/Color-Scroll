@@ -85,26 +85,26 @@
   h3.blue  {
     font-size: 4em;
     position: absolute;
-    top: 200%;
+    top: 250%;
     left: 47%;
   }
 
   h3.orange  {
     font-size: 4em;
     position: absolute;
-    top: 300%;
+    top: 400%;
     left: 47%;
   }
   h3.green  {
     font-size: 4em;
     position: absolute;
-    top: 400%;
+    top: 550%;
     left: 47%;
   }
   h3.yellow  {
     font-size: 4em;
     position: absolute;
-    top: 520%;
+    top: 680%;
     left: 47%;
   }
   }
